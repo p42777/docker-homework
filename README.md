@@ -30,6 +30,6 @@ This project includes two Docker images:
 
 ---
 
-## 📦 Docker Hub
+## Docker Hub
 
 Both images are publicly available on Docker Hub
